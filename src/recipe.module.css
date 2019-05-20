@@ -1,0 +1,23 @@
+.recipe{
+    border-radius: 10px;
+    background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40%;
+    }
+.boxdiv
+{
+    width: 50%;
+}
+.boxdiv p,h2{
+    text-align: center;
+    align-items: center;
+    position: center;
+}
+.boxdiv img{
+    padding: 0px 225px;
+}
